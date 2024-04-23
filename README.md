@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi👋, I'm Indunil Udayangana<br><br>A Final Year Undergraduate at the Department of Computer Science & Engineering at the University of Moratuwa, Sri Lanka<br><br>
+Hi👋, I'm Indunil Udayangana<br><br> I'm a software engineer, specializing in computer science and engineering, with a degree from the University of Moratuwa, Sri Lanka. Currently, I'm actively engaged in crafting innovative solutions in the software industry. <br><br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=indunil-19&icon=0&color=0)](https://visitcount.itsvg.in)
